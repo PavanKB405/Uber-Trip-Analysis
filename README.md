@@ -60,5 +60,3 @@ This dashboard is designed for **transportation and operations analysis** to hel
 * Monitor performance of vehicle categories
 
 ---
-
-Do you want me to also clean the **Pizza Sales README** the same way (remove all icons/symbols) so both look uniform?
